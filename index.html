@@ -213,7 +213,7 @@
       //wait until page loaded to avoid delaying rendering
       window.addEventListener('load', function() {
           //register service worker
-          navigator.serviceWorker.register('/serviceworker.js').then(
+          navigator.serviceWorker.register('serviceworker.js').then(
               function(registration) {
                   console.log('Service worker registration successful',registration);
               }, 
