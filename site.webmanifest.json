@@ -2,6 +2,7 @@
     "name": "Eco Lanka",
     "short_name": "EcoLanka",
     "description": "Eco Lanka is a Eco Friendly Marketing site selling various Eco Friendly products partnered with local Lankan companies",
+    "start_url":"index.html",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
