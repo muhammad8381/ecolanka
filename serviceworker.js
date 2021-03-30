@@ -2,7 +2,7 @@
 const CACHE_NAME = 'EcoLanka_Cache';
 const CACHE_URLS =  [
                      '/index.html',
-                    'styles/style.css',
+                    'elements/style.css',
                      'scripts/app.js',
                      ];
 
