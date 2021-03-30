@@ -1,7 +1,7 @@
 //Setting up cache name and adding files to add to it
 const CACHE_NAME = 'EcoLanka_Cache';
 const CACHE_URLS =  [
-                     '/index.html',
+                     './index.html',
                     'elements/style.css',
                      'scripts/app.js',
                      ];
